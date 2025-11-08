@@ -4,7 +4,7 @@ A modern, responsive landing page for a Generative AI training company, built wi
 
 ## 🚀 Live Demo
 
-[Add your live demo link here (e.g., Vercel, Netlify URL)]
+[Click Here for Demo Link](https://mzeeshanaltaf.github.io/tailwind-training-landing-page/)
 
 ## 📋 Overview
 
